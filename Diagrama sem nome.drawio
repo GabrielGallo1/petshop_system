@@ -1,9 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.2">
   <diagram name="Página-1" id="aVjAVGTrHqwCA4JihpEF">
-    <mxGraphModel>
+    <mxGraphModel dx="1498" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-1" target="lsNomWDP-AX5c-Sb73Dg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-1" value="Front&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HTML&lt;/div&gt;&lt;div&gt;CSS&lt;/div&gt;&lt;div&gt;React&lt;/div&gt;&lt;div&gt;Next ou Vite&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-4" target="lsNomWDP-AX5c-Sb73Dg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134.9411764705883" y="179.88235294117646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-4" value="BANCO DE DADOS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SQL Workbeanch&lt;/div&gt;&lt;div&gt;Insominia ou Postiman&lt;/div&gt;&lt;div&gt;e API Node.js&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-6" target="lsNomWDP-AX5c-Sb73Dg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-6" target="lsNomWDP-AX5c-Sb73Dg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-6" value="BACKEND&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rotas protegidas (/API*)&lt;/div&gt;&lt;div&gt;Lógica do negócio&lt;/div&gt;&lt;div&gt;conexão com o postgreSQL&lt;/div&gt;&lt;div&gt;Containerização Docker&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-10" value="HOSPEDAGEM&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hostinger&lt;/div&gt;&lt;div&gt;Heztnzer&lt;/div&gt;&lt;div&gt;Iso = Linux&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-12" target="lsNomWDP-AX5c-Sb73Dg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-12" value="GITHUB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNomWDP-AX5c-Sb73Dg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.019;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lsNomWDP-AX5c-Sb73Dg-4" target="lsNomWDP-AX5c-Sb73Dg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
